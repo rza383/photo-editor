@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/abylay/StudioProjects/Photo Editor/Photo Editor/task"
+    name=":Photo_Editor-task"
+    type="APP"
+    maven="Photo Editor:Photo_Editor-task:"
+    gradle="7.0.2"
+    buildFolder="build"
+    bootClassPath="/Users/abylay/Library/Android/sdk/platforms/android-29/android.jar:/Users/abylay/Library/Android/sdk/build-tools/30.0.2/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-29"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

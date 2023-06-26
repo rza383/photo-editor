@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.photoeditor.Stage5UnitTestB" tests="11" skipped="6" failures="0" errors="0" timestamp="2023-06-25T17:55:44" hostname="Abylays-MBP" time="5.687">
+  <properties/>
+  <testcase name="test01_checkSliderSaturation" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test02_checkSliderGamma" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test03_checkSliderSaturationNotCrashingByDefault" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test04_checkSliderGammaNotCrashingByDefault" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test05_checkSaturationOnlyWithHints" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test06_checkSaturationOnlyWithoutHints" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="2.956"/>
+  <testcase name="test07_checkGammaOnlyWithHints" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test08_checkGammaOnlyWithoutHints" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.688"/>
+  <testcase name="test09_checkFiltersAppliedInOrder" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.684"/>
+  <testcase name="test10_checkFiltersAppliedInReverseOrder" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.673"/>
+  <testcase name="test11_checkFiltersAppliedInReverseOrderWiderSample" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.685"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK '/Users/abylay/.m2/repository/org/robolectric/android-all-instrumented/10-robolectric-5803371-i3/android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

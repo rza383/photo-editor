@@ -1,0 +1,4 @@
+#Sun Jun 25 23:55:40 ALMT 2023
+base.0=/Users/abylay/StudioProjects/Photo Editor/Photo Editor/task/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

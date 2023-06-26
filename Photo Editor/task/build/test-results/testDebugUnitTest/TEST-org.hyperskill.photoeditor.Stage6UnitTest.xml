@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.photoeditor.Stage6UnitTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-06-25T17:55:53" hostname="Abylays-MBP" time="8.82">
+  <properties/>
+  <testcase name="test01_checkHighBrightnessValue" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.255"/>
+  <testcase name="test02_checkSomeContrastValue" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.257"/>
+  <testcase name="test03_checkSomeSaturationValue" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.262"/>
+  <testcase name="test04_checkSomeGammaValue" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.273"/>
+  <testcase name="test05_checkDefaultBitmapEdit" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.254"/>
+  <testcase name="test06_checkDefaultBitmapEdit2" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.265"/>
+  <testcase name="test07_checkDefaultBitmapEditWiderSample" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.254"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

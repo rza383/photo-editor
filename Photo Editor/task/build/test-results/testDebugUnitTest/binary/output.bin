@@ -1,0 +1,4 @@
+SCalled loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+¾resources.arsc in APK '/Users/abylay/.m2/repository/org/robolectric/android-all-instrumented/10-robolectric-5803371-i3/android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+(*SCalled loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+(*¾resources.arsc in APK '/Users/abylay/.m2/repository/org/robolectric/android-all-instrumented/10-robolectric-5803371-i3/android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
